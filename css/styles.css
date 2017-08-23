@@ -1,0 +1,32 @@
+body {
+  background-color: #ff6666;
+  background-image:
+  url("http://www.digitalconnectmag.com/wp-content/uploads/2015/11/coding-language.png");
+  background-repeat: no-repeat;
+  float: left;
+  padding-top: 250px
+}
+#Ruby, #Java, #CSS, #fifty, #bye, {
+  display: none;
+}
+
+.btn-outline-success{
+  display:none;
+}
+
+h1 {
+  color: blue;
+  margin-left:40px;
+}
+
+.jumbotron {
+  font-style: italic;
+}
+
+#languagequiz {
+  padding:50px
+}
+
+.alert-success{
+  margin:50px
+}
